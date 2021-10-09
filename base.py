@@ -1,3 +1,3 @@
-TOKEN = "2080341451:AAFy8rRr6Bv4Es9qdyUiwLF3wny3278mk7o"
+TOKEN = "token bot"
 
-GROUP_ID = "-1001652004653"
+GROUP_ID = "id group for send data about ordered meals"
