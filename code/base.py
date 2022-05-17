@@ -1,4 +1,4 @@
-TOKEN = "-"
+TOKEN = "5164296616:AAHwvadm3BrUovhPk8ceKHbPctg654XGkyU"
 
-ID_BOT = **********
-TEX_GROUP = "-*********"
+ID_BOT = 5164296616
+TEX_GROUP = "-700432173"
